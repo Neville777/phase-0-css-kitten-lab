@@ -2,6 +2,7 @@
 
 ## Learning Goals
 
+
 - Position elements absolutely
 - Practice using CSS selectors
 
